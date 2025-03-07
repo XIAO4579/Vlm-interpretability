@@ -18,7 +18,7 @@ return_dict_in_generate=True
 in the generate function. See more details in Jupyter Notebook codes.
 
 To get the heatmap image, please run [```heatmap.ipynb```](heatmap.ipynb)
-<img src="https://github.com/user-attachments/assets/2a9cdc03-18a5-4047-81c2-6d4f2fe53b41" alt="Amber25_0" width="1000" height="400">
+<img src="https://github.com/user-attachments/assets/2a9cdc03-18a5-4047-81c2-6d4f2fe53b41" alt="Amber25_0" width="1000" height="500">
 
 To get the token line chart image, please run [```plot_token_probabilities_area.ipynb```](plot_token_probabilities_area.ipynb)
 <img src="https://github.com/user-attachments/assets/1f190764-6eac-405a-8653-c68622ae2289" alt="Amber25_0" width="800">
