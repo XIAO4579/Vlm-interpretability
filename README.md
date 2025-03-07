@@ -21,7 +21,7 @@ To get the heatmap image, please run [```heatmap.ipynb```](heatmap.ipynb)
 ![distribution](https://github.com/user-attachments/assets/2a9cdc03-18a5-4047-81c2-6d4f2fe53b41)
 
 
-To get the token line chart image, please run [```plot_token_probabilities_area.ipynb.ipynb```](plot_token_probabilities_area.ipynb.ipynb)
+To get the token line chart image, please run [```plot_token_probabilities_area.ipynb```](plot_token_probabilities_area.ipynb)
 ![Amber25_0](https://github.com/user-attachments/assets/1f190764-6eac-405a-8653-c68622ae2289)
 
 To get the simple tsne image, please run [```tsne.ipynb```](tsne.ipynb)
