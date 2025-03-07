@@ -12,8 +12,8 @@ The environment should match the model you intend to analyze. For instance, if y
 
 ## Experiments
 For every open-source vlm model, please add
-'''
+```
 output_hidden_states=True
 return_dict_in_generate=True
-'''
+```
 in the generate function
