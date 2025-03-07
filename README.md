@@ -28,7 +28,7 @@ To get the simple tsne image, please run [```tsne.ipynb```](tsne.ipynb)
 
 
 To get the combined tsne image, please run [```combined_tsne.ipynb```](combined_tsne.ipynb)
-<img src="https://github.com/user-attachments/assets/bdd98ab1-67b4-4128-ba1f-39bda6474e8d" alt="Amber25_0" width="800">
+<img src="https://github.com/user-attachments/assets/bdd98ab1-67b4-4128-ba1f-39bda6474e8d" alt="Amber25_0" width="800" height="550">
 
 ## Citation
 If you find our project interesting, we hope you can star our repo and cite our paper as follows:
