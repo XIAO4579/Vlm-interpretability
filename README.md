@@ -29,7 +29,8 @@ To get the simple tsne image, please run [```tsne.ipynb```](tsne.ipynb)
 
 
 To get the combined tsne image, please run [```combined_tsne.ipynb```](combined_tsne.ipynb)
-![combine_fruit](https://github.com/user-attachments/assets/59dfb2e0-beef-4232-b9d7-89548ca009ab)
+![color_combine_flower](https://github.com/user-attachments/assets/bdd98ab1-67b4-4128-ba1f-39bda6474e8d)
+
 
 ## Citation
 If you find our project interesting, we hope you can star our repo and cite our paper as follows:
