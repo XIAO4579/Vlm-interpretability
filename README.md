@@ -1,6 +1,6 @@
 # Towards Understanding How Knowledge Evolves in Large Vision-Language Models
 
-Code for the CVPR 2024 paper "Towards Understanding How Knowledge Evolves in Large Vision-Language Models"
+Code for the CVPR 2025 paper "Towards Understanding How Knowledge Evolves in Large Vision-Language Models"
 
 ## Overview!
 ![path](https://github.com/user-attachments/assets/09969d8e-2698-4f22-8a24-05be6e90b32b)
