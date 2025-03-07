@@ -18,5 +18,7 @@ return_dict_in_generate=True
 ```
 in the generate function. See more details in Jupyter Notebook codes.
 
+To get the heatmap image, run [```heatmap.ipynb```](heatmap.ipynb)
+
 ## Citation
 If you find our project interesting, we hope you can star our repo and cite our paper as follows:
