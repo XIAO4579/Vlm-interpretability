@@ -18,7 +18,13 @@ return_dict_in_generate=True
 ```
 in the generate function. See more details in Jupyter Notebook codes.
 
-To get the heatmap image, run [```heatmap.ipynb```](heatmap.ipynb)
+To get the heatmap image, please run [```heatmap.ipynb```](heatmap.ipynb)
+
+To get the token line chart image, please run [```plot_token_probabilities_area.ipynb.ipynb```](plot_token_probabilities_area.ipynb.ipynb)
+
+To get the simple tsne image, please run [```tsne.ipynb```](tsne.ipynb)
+
+To get the combined tsne image, please run [```combined_tsne.ipynb```](combined_tsne.ipynb)
 
 ## Citation
 If you find our project interesting, we hope you can star our repo and cite our paper as follows:
