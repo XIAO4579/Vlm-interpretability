@@ -24,7 +24,7 @@ To get the token line chart image, please run [```plot_token_probabilities_area.
 <img src="https://github.com/user-attachments/assets/1f190764-6eac-405a-8653-c68622ae2289" alt="Amber25_0" width="800">
 
 To get the simple tsne image, please run [```tsne.ipynb```](tsne.ipynb)
-<img src="https://github.com/user-attachments/assets/c28fe404-3d65-4e3c-a4dc-51d3f681f521" alt="Amber25_0" width="800" height="600">
+<img src="https://github.com/user-attachments/assets/c28fe404-3d65-4e3c-a4dc-51d3f681f521" alt="Amber25_0" width="800" height="550">
 
 
 To get the combined tsne image, please run [```combined_tsne.ipynb```](combined_tsne.ipynb)
