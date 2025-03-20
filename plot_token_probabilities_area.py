@@ -79,7 +79,6 @@ def plot_token_probabilities_area(token_probabilities, save_file='None', title="
     
     plt.tight_layout()
     
-    # 保存图表
     #plt.savefig(save_file, facecolor='white')
     plt.show()
 
