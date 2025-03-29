@@ -1,8 +1,10 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
 from llava.model.builder import load_pretrained_model
 from llava.mm_utils import get_model_name_from_path
 from llava.eval.run_llava import eval_model
-import numpy as np
-import matplotlib.pyplot as plt
+
 from sklearn.preprocessing import MaxAbsScaler
 from sklearn.manifold import TSNE
 from matplotlib.colors import to_hex
