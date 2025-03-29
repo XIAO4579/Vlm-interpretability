@@ -1,13 +1,17 @@
-from llava.model.builder import load_pretrained_model
-from llava.mm_utils import get_model_name_from_path
-from llava.eval.run_llava import eval_model
 import torch
 import torch.nn.functional as F
+
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 import json
+
 from sklearn.preprocessing import MaxAbsScaler
+
+from llava.model.builder import load_pretrained_model
+from llava.mm_utils import get_model_name_from_path
+from llava.eval.run_llava import eval_model
+
 plt.rcParams["font.family"] = 'DejaVu Sans'
 
 def compute_js_divergence_between_layers(dict_outputs, layer_indices):
