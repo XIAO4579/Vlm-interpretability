@@ -1,11 +1,14 @@
 from llava.model.builder import load_pretrained_model
 from llava.mm_utils import get_model_name_from_path
 from llava.eval.run_llava import eval_model
+
 import torch
+import torch.nn.functional as F
+
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
-import torch.nn.functional as F
+
 
 def plot_token_probabilities_area(token_probabilities, save_file='None', title="Token Probabilities Over Steps", 
                                   xlabel="Layers", ylabel="Probability"):
