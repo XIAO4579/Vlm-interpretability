@@ -32,3 +32,14 @@ To get the combined tsne image, please run [```combined_tsne.py```](combined_tsn
 
 ## Citation
 If you find our project interesting, we hope you can star our repo and cite our paper as follows:
+'''
+@misc{wang2025understandingknowledgeevolveslarge,
+      title={Towards Understanding How Knowledge Evolves in Large Vision-Language Models}, 
+      author={Sudong Wang and Yunjian Zhang and Yao Zhu and Jianing Li and Zizhe Wang and Yanwei Liu and Xiangyang Ji},
+      year={2025},
+      eprint={2504.02862},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2504.02862}, 
+}
+'''
